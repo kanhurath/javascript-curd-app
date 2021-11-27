@@ -3,11 +3,11 @@
 ///////////////////////
 
 const people = [
-    { name: "Alex Merced", age: 35 },
-    { name: "Bob Jones", age: 65 },
-    { name: "Steve Smith", age: 22 },
-    { name: "Macie Willis", age: 32 },
-    { name: "John Jingle", age: 40 },
+    { name: "Kanhu Charan", age: 35 },
+    { name: "Pradipt Kumar", age: 24 },
+    { name: "Sasmita Rout", age: 22 },
+    { name: "Amulya Kumar", age: 38 },
+    { name: "Priya Btata", age: 31 },
 ]
 
 //document.querySelector takes a css selector and returns the first element that matches that selector
