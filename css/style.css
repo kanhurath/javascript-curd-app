@@ -1,0 +1,42 @@
+*{box-sizing: border-box;margin: 0px;padding: 0px;border: none;outline: none;list-style: none;text-decoration: none;box-sizing: border-box;font-family: 'Roboto', sans-serif;}
+img {max-width: 100%;vertical-align: middle;}
+html {overflow-x: hidden;}
+body {font-size: 17px;background: #fff;overflow-x: hidden;}
+body.overflow{overflow: hidden;}
+a,a:after{text-decoration: none;cursor: pointer;transition: all 600ms ease-out;-o-transition: all 600ms ease-out;-ms-transition: all 600ms ease-out;-moz-transition: all 600ms ease-out;-webkit-transition: all 600ms ease-out;}
+::placeholder {opacity: 1;}
+:-ms-input-placeholder {opacity: 1;}
+::-ms-input-placeholder {opacity: 1;}
+.wrapper{max-width: 700px!important;width: 96%!important;margin: 0 auto!important;float: none !important;}
+h1, h2, h3, h4, h5 {font-family: 'Roboto', sans-serif;}
+.clear {clear: both;}
+.main-div{width: 100%;float: left;}
+
+
+.content-row {width: 100%;float: left;}
+.header{padding:0;width: 100%;float: left;background: #2e363e;}
+main{width: 100%;display: block;padding: 20px;border: 10px solid rgb(240, 240, 240);margin: 30px 0;}
+main h1{font-size: 25px;color: #565656;font-weight: 400;position: relative;width: 100%;background-color: rgb(0 255 132 / 25%);padding: 10px;text-align: center;}
+main aside{width: 100%;background-color: rgb(0 255 132 / 25%);padding:0 0 10px 0;text-align: center;margin-bottom: 5px;}
+main aside button{padding: 7px 20px;background-color: rgb(153 153 153);color: #fff;font-size: 15px;text-transform: uppercase;border-radius: 4px;cursor: pointer;margin: 0 20px;}
+main aside button:hover{background-color: rgb(252, 164, 0);}
+main aside:last-child{margin-bottom: 0;}
+#form{width: 100%;background: rgb(248, 248, 248);padding: 20px;text-align: center;margin-bottom: 20px;}
+#form2{width: 100%;background: rgb(248, 248, 248);padding: 20px;text-align: center;margin-bottom: 60px;}
+#form input[type="text"],#form2 input[type="text"],#form input[type="number"],#form2 input[type="number"]{width: 100%;border: 1px solid #b6b6b6;height: 50px;font-size: 16px;padding: 10px;color: #2e363e;margin-bottom: 10px;text-align: left;}
+#form button,#form2 button{padding: 15px 30px;background-color: rgb(155 144 255);color: #fff;font-size: 20px;text-transform: uppercase;border-radius: 4px;cursor: pointer;margin: 0 20px;}
+#form button:hover,#form2 button:hover{background-color: rgb(252, 164, 0);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
